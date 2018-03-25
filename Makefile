@@ -15,7 +15,7 @@ all:
 	leanpkg build
 
 clean:
-	/usr/bin/find src test -name "*.olean" -delete
+# /usr/bin/find src test -name "*.olean" -delete
 	/usr/bin/find src test -name "*.lean.test_suite.out" -delete
 	/usr/bin/find src test -name "*.lean.status" -delete
 
