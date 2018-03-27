@@ -1,4 +1,4 @@
--- stack --package pipes
+-- stack runghc --package pipes
 {-# LANGUAGE LambdaCase #-}
 
 module Main where
