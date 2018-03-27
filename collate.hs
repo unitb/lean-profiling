@@ -1,4 +1,4 @@
--- script --package pipes
+-- stack --package pipes
 {-# LANGUAGE LambdaCase #-}
 
 module Main where
